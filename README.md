@@ -87,7 +87,7 @@ O pipeline é definido de forma declarativa utilizando DLT.
 
 ---
 
-### Camada Bronze
+### Bronze Layer
 
 * Leitura dos arquivos CSV brutos
 * Estruturação inicial dos dados
@@ -105,7 +105,7 @@ def bronze_empresas():
 
 ---
 
-### Camada Prata
+### Silver Layer
 
 * Limpeza de dados
 * Tipagem
@@ -121,7 +121,7 @@ def silver_empresas():
 
 ---
 
-### Camada Ouro
+### Gold Layer
 
 * Agregações para análise
 
@@ -137,7 +137,7 @@ def gold_empresas_por_porte():
 
 ---
 
-## Qualidade de Dados
+## Data Quality
 
 O DLT permite definir regras de qualidade diretamente no pipeline:
 
@@ -224,7 +224,7 @@ Demonstrar habilidades em:
 
 ## Status
 
-🚧 Em desenvolvimento
+Em desenvolvimento
 
 ---
 
