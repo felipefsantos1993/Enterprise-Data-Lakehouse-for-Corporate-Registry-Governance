@@ -237,5 +237,3 @@ Sinta-se à vontade para abrir issues ou contribuir com melhorias.
 ## Licença
 
 Este projeto utiliza dados públicos da Receita Federal do Brasil.
-
-
