@@ -1,4 +1,4 @@
-# National Corporate Data Lakehouse & Governance Platform (CNPJ)
+# Enterprise Data Lakehouse for Corporate Registry & Governance
 
 Plataforma de engenharia de dados baseada em arquitetura Lakehouse utilizando Delta Live Tables (DLT) para ingestão, transformação, governança e análise dos dados públicos da Receita Federal (CNPJ).
 
@@ -194,7 +194,7 @@ Demonstrar habilidades em:
 
 ## Status
 
-🚧 Em desenvolvimento
+Em desenvolvimento
 
 ---
 
@@ -210,7 +210,7 @@ Este projeto utiliza dados públicos da Receita Federal do Brasil.
 
 
 
-# National Corporate Data Lakehouse & Governance Platform (CNPJ)
+# Enterprise Data Lakehouse for Corporate Registry & Governance
 
 A modern data engineering platform based on Lakehouse architecture using Delta Live Tables (DLT) for ingestion, transformation, governance, and analytics of Brazilian Federal Revenue public data (CNPJ).
 
